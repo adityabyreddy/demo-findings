@@ -3,9 +3,6 @@
   <groupId>demo-file-download</groupId>
   <artifactId>demo-file-download</artifactId>
   <version>0.0.1</version>
-  <build>
-    <directory>${project.build.directory}</directory>
-  </build>
   <dependencies>
 	<dependency>
     	<groupId>commons-lang</groupId>
